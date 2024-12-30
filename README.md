@@ -3,7 +3,7 @@
 Welcome to the Free Fire PC Panel project. This panel provides various enhancements and features to improve your gaming experience in Free Fire on PC.
 
 ## ✨ Features
-
+g
 The Free Fire PC Panel includes a variety of undetected features to enhance your gameplay. Here is a list of available features:
 
 | Feature                           | Status          |
