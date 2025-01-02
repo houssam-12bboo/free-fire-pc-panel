@@ -51,4 +51,4 @@ This project is for educational purposes only. Using cheats or hacks in online g
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-.
+.docker pull ghcr.io/crazy-max/samba:edge
