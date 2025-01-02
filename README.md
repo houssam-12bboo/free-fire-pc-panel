@@ -8,8 +8,8 @@ The Free Fire PC Panel includes a variety of undetected features to enhance your
 
 | Feature                           | Status          |
 |-----------------------------------|-----------------|
-| 🎯 **Aimbot**                     | Undetected      |
-| 👁️ **ESP**                        | Undetected      |
+| 🎯 **Aimbot**                     | detected      |
+| 👁️ **ESP**                        | detected      |
 | 🛠️ **Exploits**                   | Undetected      |
 | 🌀 **Misc**                        | Undetected      |
 | 🎯 **Aimbot Fov Circle**          | Undetected      |
