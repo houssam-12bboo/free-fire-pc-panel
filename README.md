@@ -10,22 +10,22 @@ The Free Fire PC Panel includes a variety of undetected features to enhance your
 |-----------------------------------|-----------------|
 | 🎯 **Aimbot**                     | detected      |
 | 👁️ **ESP**                        | detected      |
-| 🛠️ **Exploits**                   | Undetected      |
-| 🌀 **Misc**                        | Undetected      |
-| 🎯 **Aimbot Fov Circle**          | Undetected      |
-| 🎯 **Aimbot Smooth**              | Undetected      |
-| 🎯 **Aimbot Bone**                | Undetected      |
-| 🎯 **Aimbot Prediction**          | Undetected      |
-| 🧩 **Box ESP**                    | Undetected      |
-| 🤸 **Aim While Jumping**          | Undetected      |
-| ⏲️ **No Weapon Switch Delay**     | Undetected      |
-| 🚫 **No Spread**                  | Undetected      |
-| ⚡ **Rapid Fire**                 | Undetected      |
-| 🕹️ **Trigger Bot**                | Undetected      |
-| 🪂 **AirStuck**                   | Undetected      |
-| 🔄 **360 Fov**                    | Undetected      |
-| 🔄 **Fov Circle off/on**          | Undetected      |
-| 🎯 **Crosshair**                  | Undetected      |
+| 🛠️ **Exploits**                   | detected      |
+| 🌀 **Misc**                        |detected      |
+| 🎯 **Aimbot Fov Circle**          | detected      |
+| 🎯 **Aimbot Smooth**              | detected      |
+| 🎯 **Aimbot Bone**                | detected      |
+| 🎯 **Aimbot Prediction**          | detected      |
+| 🧩 **Box ESP**                    | detected      |
+| 🤸 **Aim While Jumping**          | detected      |
+| ⏲️ **No Weapon Switch Delay**     | detected      |
+| 🚫 **No Spread**                  | detected      |
+| ⚡ **Rapid Fire**                 | detected      |
+| 🕹️ **Trigger Bot**                | detected      |
+| 🪂 **AirStuck**                   | detected      |
+| 🔄 **360 Fov**                    | detected      |
+| 🔄 **Fov Circle off/on**          | detected      |
+| 🎯 **Crosshair**                  | detected      |
 
 ## 🖥️ Requirements
 
